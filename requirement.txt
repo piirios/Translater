@@ -1,0 +1,6 @@
+torch
+click
+spacy
+torchtext
+tqdm
+pandas
